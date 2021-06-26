@@ -24,3 +24,6 @@ Estudo teórico e prático de padrões de projetos.
 - Behavioral(Comportamentais): Cuidam da comunicação eficiente e da assinalação de responsabilidades entre projetos.
 - Creational(Criacionais): Fornecem mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização de código.
 - Structural(Estruturais): Explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes.
+
+## 📋 Factory Method (Behavioral)
+https://refactoring.guru/pt-br/design-patterns/factory-method
